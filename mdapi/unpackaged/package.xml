@@ -4,5 +4,11 @@
         <members>Product2New</members>
         <name>ApexPage</name>
     </types>
+    <types>
+        <members>Product2Extension</members>
+        <members>Product2Helper</members>
+        <members>Product2Tests</members>
+        <name>ApexClass</name>
+    </types>
     <version>43.0</version>
 </Package>
