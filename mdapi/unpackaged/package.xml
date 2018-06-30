@@ -8,6 +8,7 @@
         <members>Product2Extension</members>
         <members>Product2Helper</members>
         <members>Product2Tests</members>
+        <members>ChartHelper</members>
         <name>ApexClass</name>
     </types>
     <version>43.0</version>
